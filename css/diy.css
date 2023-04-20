@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: black;
+    background-color: white;
+}
+li{
+    font-weight: 100;
+}
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: dimgrey;
+}
+
+.common{
+    border: 2px solid gray;
+    position: absolute;
+}
+
+.header{
+    margin-top: 100px;
+}
+
+.body{
+    margin-left: 100px;
+}
+
+.footer{
+   margin-bottom: 100px;
+}
